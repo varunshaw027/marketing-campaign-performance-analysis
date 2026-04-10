@@ -1,7 +1,7 @@
 # 📊 Marketing Campaign Performance Analysis
 
 ## 📌 Project Overview
-This project focuses on analyzing customer data to identify distinct segments based on behavior and engagement patterns.
+This project analyzes marketing campaign performance across multiple channels to evaluate cost efficiency, engagement, and return on investment. The goal is to identify whether any channel outperforms others and provide data-driven recommendations for budget allocation.
 
 ## 💡 Business Problem
 The company wants to understand which marketing channels perform best in terms of cost efficiency and engagement, and whether budget allocation should be optimized.
