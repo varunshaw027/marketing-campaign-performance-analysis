@@ -50,8 +50,15 @@ Customer segmentation enables more targeted marketing strategies and improves ov
 
 ---
 
+## 🧠 Skills Demonstrated
+- SQL Aggregations & Calculations
+- Data Cleaning & Transformation
+- KPI Development
+- Data Visualization (Tableau)
+- Business Insight Generation
+
 ## 🖼️ Dashboard Preview
-![Dashboard](dashboard.png)
+(dashboard.png)
 
 ---
 
