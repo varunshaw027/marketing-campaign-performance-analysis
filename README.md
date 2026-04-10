@@ -112,7 +112,7 @@ Customer segmentation enables more targeted marketing strategies and improves ov
 Built an end-to-end marketing analytics solution using SQL Server and Tableau to evaluate campaign performance across channels, delivering actionable insights on cost efficiency, engagement, and ROI.
 
 ## 🖼️ Dashboard Preview
-(dashboard.png)
+<img width="1000" height="800" alt="dashboard" src="https://github.com/user-attachments/assets/c51f3cbf-cc99-4a6b-9bc7-2612ecc20c6b" />
 
 ---
 
